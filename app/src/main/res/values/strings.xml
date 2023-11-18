@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Advanced Graphical Interface</string>
+    <string name="action_bar">Action Bar</string>
+    <string name="card">Card</string>
+    <string name="lazy_column">Lazy Column</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="localized_description">Localized description</string>
+    <string name="add_to_favorite_title">Add to favorite</string>
+    <string name="todos">TODOs</string>
+</resources>
